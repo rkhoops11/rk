@@ -1,0 +1,17 @@
+body{
+	color: white;
+	background: url("../img/sunset.jpg") no-repeat center center fixed;
+	background-size: cover;
+	padding-left: 18%;
+	text-align: center;
+}
+	
+img{
+	max-width: 100%;
+}
+
+.main{
+	max-width: 840px;
+	margin-left: auto;
+	margin-right: auto;
+}
